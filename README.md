@@ -9,6 +9,7 @@ Check out [software/src/weblight-card.html](https://github.com/sowbug/weblight/b
 Developing TOMUweb (Very much WIP)
 ===
 
+~~
 Toolchain/environment setup
 ---
 
@@ -149,3 +150,4 @@ Acknowledgments
 * [Passerby](http://electronics.stackexchange.com/users/17178/passerby) for help [reverse-engineering](http://electronics.stackexchange.com/questions/209941/two-sided-connectorless-usb-on-a-pcb) the double-sided USB connector.
 * [gerblook.org](http://gerblook.org/) for an awesome Gerber visualizer.
 * [Lars Knudsen](https://github.com/larsgk) for keeping docs up to date.
+~~
