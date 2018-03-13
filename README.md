@@ -1,20 +1,12 @@
-# WebLight
+# TOMUweb
 
-![WebLight](img/DSC00108.jpg)
+A web interface for TOMU, an MCU-in-a-USB-port.
 
-A USB-controlled LED designed for the
-[WebUSB API](https://wicg.github.io/webusb/).
 
-Try the web app
-===
-Have a WebLight device already?  
-Launch the web app here:  
-https://sowbug.github.io/weblight/
-
-What does the javascript look like to write color values?  
+What will the javascript look like? Probably not too much different than the following code:
 Check out [software/src/weblight-card.html](https://github.com/sowbug/weblight/blob/master/software/src/weblight-card.html)
 
-Developing WebLight Devices
+Developing TOMUweb (Very much WIP)
 ===
 
 Toolchain/environment setup
