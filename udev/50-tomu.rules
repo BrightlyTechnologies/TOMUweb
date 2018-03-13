@@ -1,0 +1,2 @@
+# /etc/udev/rules.d/50-tomu.rules
+SUBSYSTEMS=="usb", ATTR{idVendor}=="1209", ATTR{idProduct}=="70b1", MODE:="0666"
